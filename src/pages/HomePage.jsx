@@ -19,7 +19,7 @@ const HomePage = () => {
     p={4}
     color={textColor}
     spacing={5}
-    bgImage="url('../assets/bc.gif')"
+    bgImage="url('./../assets/bc.gif')"
     bgPosition="center"
     bgRepeat="no-repeat"
     bgSize="cover"
