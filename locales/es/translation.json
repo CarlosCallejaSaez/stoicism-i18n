@@ -1,0 +1,20 @@
+{
+  "welcome": "Bienvenido al Estoicismo",
+  "intro": "Explora los principios estoicos y cómo aplicarlos en tu vida diaria.",
+  "quotes_title": "Citas Destacadas",
+  "quote1": "La vida es lo que nuestros pensamientos hacen de ella.",
+  "quote2": "No exigas que las cosas ocurran como deseas, sino deséa que ocurran como ocurren, y serás feliz.",
+  "quote3": "No es el hombre quien tiene poco, sino el que ansía más, es pobre.",
+  "resources_title": "Recursos Recomendados",
+  "resource1": "Meditaciones por Marco Aurelio",
+  "resource2": "El Manual de Epicteto",
+  "resource3": "El estoicismo como filosofía de vida (Web)",
+  "resource4": "Curso de Estoicismo (Online)",
+  "figures_title": "Figuras Importantes del Estoicismo",
+  "marcoAurelio": "Marco Aurelio",
+  "seneca": "Séneca",
+  "epicteto": "Epicteto",
+
+  "whatIsStoicism": "¿Qué es el estoicismo?",
+  "stoicismExplanation": "El estoicismo es una filosofía de la vida que enseña la virtud, la sabiduría y el dominio de uno mismo como el camino hacia la felicidad. Surgió en la antigua Grecia y fue popularizada por figuras como Marco Aurelio, Séneca y Epicteto."
+}
