@@ -19,7 +19,7 @@ const HomePage = () => {
     p={4}
     color={textColor}
     spacing={5}
-    bgImage="url('../../public/bc.gif')"
+    bgImage="url('../assets/bc.gif')"
     bgPosition="center"
     bgRepeat="no-repeat"
     bgSize="cover"
@@ -77,19 +77,19 @@ const HomePage = () => {
         <Text fontSize="xl" fontWeight="bold">{t('figures_title')}</Text>
         <SimpleGrid columns={[2, null, 3]} spacing="40px">
           <Box>
-            <Image src="../../public/marco.jpg" alt="Marco Aurelio"  width="700px" height="auto"/>
+            <Image src="../assets/marco.jpg" alt="Marco Aurelio"  width="700px" height="auto"/>
             <Center>
             <Text>{t('marcoAurelio')}</Text>
             </Center>
           </Box>
           <Box>
-            <Image src="../../public/epicteto.jpg" alt="Epicteto" width="700px" height="auto" />
+            <Image src="../assets/epicteto.jpg" alt="Epicteto" width="700px" height="auto" />
             <Center>
             <Text>{t('epicteto')}</Text>
             </Center>
           </Box>
           <Box>
-            <Image src="../../public/seneca.jpg" alt="Séneca"  width="700px" height="auto" />
+            <Image src="../assets/seneca.jpg" alt="Séneca"  width="700px" height="auto" />
             <Center>
             <Text>{t('seneca')}</Text>
             </Center>
