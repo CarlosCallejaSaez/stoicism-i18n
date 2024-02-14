@@ -77,19 +77,19 @@ const HomePage = () => {
         <Text fontSize="xl" fontWeight="bold">{t('figures_title')}</Text>
         <SimpleGrid columns={[2, null, 3]} spacing="40px">
           <Box>
-            <Image src="../assets/marco.jpg" alt="Marco Aurelio"  width="700px" height="auto"/>
+            <Image src="/marco.jpg" alt="Marco Aurelio"  width="700px" height="auto"/>
             <Center>
             <Text>{t('marcoAurelio')}</Text>
             </Center>
           </Box>
           <Box>
-            <Image src="../assets/epicteto.jpg" alt="Epicteto" width="700px" height="auto" />
+            <Image src="/epicteto.jpg" alt="Epicteto" width="700px" height="auto" />
             <Center>
             <Text>{t('epicteto')}</Text>
             </Center>
           </Box>
           <Box>
-            <Image src="../assets/seneca.jpg" alt="Séneca"  width="700px" height="auto" />
+            <Image src="/seneca.jpg" alt="Séneca"  width="700px" height="auto" />
             <Center>
             <Text>{t('seneca')}</Text>
             </Center>

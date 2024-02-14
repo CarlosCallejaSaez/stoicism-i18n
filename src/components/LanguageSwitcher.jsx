@@ -9,13 +9,13 @@ const LanguageSwitcher = () => {
     <HStack spacing="24px" >
         
       <Button onClick={() => i18n.changeLanguage('es')}>
-        <Image src="../assets/espana.png" alt="Español" width="20px" />
+        <Image src="/espana.png" alt="Español" width="20px" />
       </Button>
       <Button onClick={() => i18n.changeLanguage('en')}>
-        <Image src="../assets/usa.png" alt="English" width="20px" />
+        <Image src="/usa.png" alt="English" width="20px" />
       </Button>
       <Button onClick={() => i18n.changeLanguage('fr')}>
-        <Image src="../assets/francia.png" alt="Français" width="20px" />
+        <Image src="/francia.png" alt="Français" width="20px" />
       </Button>
    
     </HStack>
